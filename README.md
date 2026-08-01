@@ -3,15 +3,9 @@ Bayesian fiscal SVAR based on Blanchard and Perotti (2002), with Minnesota prior
 
 ## Repository structure
 
-```text
-Data/
-Code/
-Results/
-```
-
-- **`Data/`** — Input data and elasticity series used in the estimation.
-- **`Code/`** — MATLAB scripts for data preparation, prior specification, posterior simulation, and impulse-response computation.
-- **`Results/`** — Model description, Bayesian estimation details, figures, and tables of posterior impulse responses.
+- **`Data`** — Input data and elasticity series used in the estimation.
+- **`Code`** — MATLAB scripts for data preparation, prior specification, posterior simulation, and impulse-response computation.
+- **`Results`** — Model description, Bayesian estimation details, figures, and tables of posterior impulse responses.
 
 ## Reference
 
